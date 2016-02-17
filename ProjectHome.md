@@ -1,0 +1,1 @@
+The goal of this project is to create an Arduino based controller for a Webasto Blueheat parking heater.  The main objective is to connect the Arduino controller to a GSM based cellular module so that the controller can be triggered remotely via SMS.
